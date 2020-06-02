@@ -17,7 +17,7 @@ function triple() {
 }
 
 function square() {
-  squareTheNumber = 4 * 4;
+  squareTheNumber = squareTheNumber * squareTheNumber;
 }
 
 function beingNice() {
